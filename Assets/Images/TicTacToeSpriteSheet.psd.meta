@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: 5c265f82d1394a1409d32cc774a40b2d
+timeCreated: 1463970296
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TicTacToeSpriteSheet_0
+    21300002: TicTacToeSpriteSheet_1
+    21300004: TicTacToeSpriteSheet_2
+    21300006: TicTacToeSpriteSheet_3
+    21300008: TicTacToeSpriteSheet_4
+    21300010: TicTacToeSpriteSheet_5
+    21300012: TicTacToeSpriteSheet_6
+    21300014: TicTacToeSpriteSheet_7
+    21300016: TicTacToeSpriteSheet_8
+    21300018: TicTacToeSpriteSheet_9
+    21300020: TicTacToeSpriteSheet_10
+    21300022: TicTacToeSpriteSheet_11
+    21300024: TicTacToeSpriteSheet_12
+    21300026: TicTacToeSpriteSheet_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TicTacToeSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 294
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 28}
+        - {x: -24.5, y: -28}
+        - {x: 20.5, y: -28}
+        - {x: 24.5, y: -27}
+        - {x: 24.5, y: 28}
+    - name: TicTacToeSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 294
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 28.5}
+        - {x: -32, y: 13.5}
+        - {x: -32, y: -21.5}
+        - {x: -25, y: -26.5}
+        - {x: -22, y: -28.5}
+        - {x: 16, y: -28.5}
+        - {x: 32, y: -21.5}
+        - {x: 32, y: 28.5}
+      - - {x: -23, y: -17.5}
+        - {x: -11, y: 17.5}
+        - {x: 19, y: 16.5}
+        - {x: 18, y: -9.5}
+      - - {x: -3, y: 20.5}
+        - {x: -19, y: 9.5}
+        - {x: -22, y: 1.5}
+        - {x: -22, y: -13.5}
+        - {x: -17, y: -19.5}
+        - {x: 8, y: -19.5}
+        - {x: 19, y: -8.5}
+        - {x: 19, y: 9.5}
+        - {x: 14, y: 20.5}
+    - name: TicTacToeSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 298
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 28}
+        - {x: -24.5, y: -28}
+        - {x: 20.5, y: -28}
+        - {x: 24.5, y: -27}
+        - {x: 24.5, y: 28}
+    - name: TicTacToeSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 298
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 28.5}
+        - {x: -32, y: 13.5}
+        - {x: -32, y: -21.5}
+        - {x: -25, y: -26.5}
+        - {x: -22, y: -28.5}
+        - {x: 16, y: -28.5}
+        - {x: 32, y: -21.5}
+        - {x: 32, y: 28.5}
+      - - {x: -23, y: -17.5}
+        - {x: -11, y: 17.5}
+        - {x: 19, y: 16.5}
+        - {x: 18, y: -9.5}
+      - - {x: -3, y: 20.5}
+        - {x: -19, y: 9.5}
+        - {x: -22, y: 1.5}
+        - {x: -22, y: -13.5}
+        - {x: -17, y: -19.5}
+        - {x: 8, y: -19.5}
+        - {x: 19, y: -8.5}
+        - {x: 19, y: 9.5}
+        - {x: 14, y: 20.5}
+    - name: TicTacToeSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 302
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 28}
+        - {x: -24.5, y: -28}
+        - {x: 20.5, y: -28}
+        - {x: 24.5, y: -27}
+        - {x: 24.5, y: 28}
+    - name: TicTacToeSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 302
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 28.5}
+        - {x: -32, y: 13.5}
+        - {x: -32, y: -21.5}
+        - {x: -25, y: -26.5}
+        - {x: -22, y: -28.5}
+        - {x: 16, y: -28.5}
+        - {x: 32, y: -21.5}
+        - {x: 32, y: 28.5}
+      - - {x: -23, y: -17.5}
+        - {x: -11, y: 17.5}
+        - {x: 19, y: 16.5}
+        - {x: 18, y: -9.5}
+      - - {x: -3, y: 20.5}
+        - {x: -19, y: 9.5}
+        - {x: -22, y: 1.5}
+        - {x: -22, y: -13.5}
+        - {x: -17, y: -19.5}
+        - {x: 8, y: -19.5}
+        - {x: 19, y: -8.5}
+        - {x: 19, y: 9.5}
+        - {x: 14, y: 20.5}
+    - name: TicTacToeSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 229
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 28}
+        - {x: -24.5, y: -28}
+        - {x: 20.5, y: -28}
+        - {x: 24.5, y: -27}
+        - {x: 24.5, y: 28}
+    - name: TicTacToeSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 229
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 28.5}
+        - {x: -32, y: 13.5}
+        - {x: -32, y: -21.5}
+        - {x: -25, y: -26.5}
+        - {x: -22, y: -28.5}
+        - {x: 16, y: -28.5}
+        - {x: 32, y: -21.5}
+        - {x: 32, y: 28.5}
+      - - {x: -23, y: -17.5}
+        - {x: -11, y: 17.5}
+        - {x: 19, y: 16.5}
+        - {x: 18, y: -9.5}
+      - - {x: -3, y: 20.5}
+        - {x: -19, y: 9.5}
+        - {x: -22, y: 1.5}
+        - {x: -22, y: -13.5}
+        - {x: -17, y: -19.5}
+        - {x: 8, y: -19.5}
+        - {x: 19, y: -8.5}
+        - {x: 19, y: 9.5}
+        - {x: 14, y: 20.5}
+    - name: TicTacToeSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 229
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 28}
+        - {x: -24.5, y: -28}
+        - {x: 20.5, y: -28}
+        - {x: 24.5, y: -27}
+        - {x: 24.5, y: 28}
+    - name: TicTacToeSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 229
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 28.5}
+        - {x: -32, y: 13.5}
+        - {x: -32, y: -21.5}
+        - {x: -25, y: -26.5}
+        - {x: -22, y: -28.5}
+        - {x: 16, y: -28.5}
+        - {x: 32, y: -21.5}
+        - {x: 32, y: 28.5}
+      - - {x: -23, y: -17.5}
+        - {x: -11, y: 17.5}
+        - {x: 19, y: 16.5}
+        - {x: 18, y: -9.5}
+      - - {x: -3, y: 20.5}
+        - {x: -19, y: 9.5}
+        - {x: -22, y: 1.5}
+        - {x: -22, y: -13.5}
+        - {x: -17, y: -19.5}
+        - {x: 8, y: -19.5}
+        - {x: 19, y: -8.5}
+        - {x: 19, y: 9.5}
+        - {x: 14, y: 20.5}
+    - name: TicTacToeSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 232
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 28}
+        - {x: -24.5, y: -28}
+        - {x: 20.5, y: -28}
+        - {x: 24.5, y: -27}
+        - {x: 24.5, y: 28}
+    - name: TicTacToeSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 232
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 28.5}
+        - {x: -32, y: 13.5}
+        - {x: -32, y: -21.5}
+        - {x: -25, y: -26.5}
+        - {x: -22, y: -28.5}
+        - {x: 16, y: -28.5}
+        - {x: 32, y: -21.5}
+        - {x: 32, y: 28.5}
+      - - {x: -23, y: -17.5}
+        - {x: -11, y: 17.5}
+        - {x: 19, y: 16.5}
+        - {x: 18, y: -9.5}
+      - - {x: -3, y: 20.5}
+        - {x: -19, y: 9.5}
+        - {x: -22, y: 1.5}
+        - {x: -22, y: -13.5}
+        - {x: -17, y: -19.5}
+        - {x: 8, y: -19.5}
+        - {x: 19, y: -8.5}
+        - {x: 19, y: 9.5}
+        - {x: 14, y: 20.5}
+    - name: TicTacToeSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 148
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 28}
+        - {x: -24.5, y: -28}
+        - {x: 20.5, y: -28}
+        - {x: 24.5, y: -27}
+        - {x: 24.5, y: 28}
+    - name: TicTacToeSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 148
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 28.5}
+        - {x: -32, y: 13.5}
+        - {x: -32, y: -21.5}
+        - {x: -25, y: -26.5}
+        - {x: -22, y: -28.5}
+        - {x: 16, y: -28.5}
+        - {x: 32, y: -21.5}
+        - {x: 32, y: 28.5}
+      - - {x: -23, y: -17.5}
+        - {x: -11, y: 17.5}
+        - {x: 19, y: 16.5}
+        - {x: 18, y: -9.5}
+      - - {x: -3, y: 20.5}
+        - {x: -19, y: 9.5}
+        - {x: -22, y: 1.5}
+        - {x: -22, y: -13.5}
+        - {x: -17, y: -19.5}
+        - {x: 8, y: -19.5}
+        - {x: 19, y: -8.5}
+        - {x: 19, y: 9.5}
+        - {x: 14, y: 20.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
